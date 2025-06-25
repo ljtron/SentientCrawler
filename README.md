@@ -1,5 +1,8 @@
 # 👁️ SentientCrawler
 
+![image of SentientCrawler](./misc/images/sentientCrawler_main_image.png)
+
+
 ## Description
 Smarter scraping for a smarter web.
 
@@ -25,6 +28,10 @@ Creating a full-fledged crawler from scratch will definitely be a journey (wish 
 If you’re curious about AI, NLP, or just want to build smarter tools for navigating the web, this project might be worth watching—or contributing to.
 
 Stay tuned. This is just the beginning.
+
+## Diagram
+
+![diagram of webscraper](./misc/images/webscraper_diagram_main.png)
 
 ## Get started
 
